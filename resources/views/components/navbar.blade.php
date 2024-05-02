@@ -3,7 +3,7 @@
         <div class="container-fluid justify-content-around">
             {{-- Presto logo clickable --}}
             <a class="navbar-brand navbarFont m-3 d-flex align-items-center jost-bold" href="{{ route('home') }}">
-                <img class="logo object-fit-contain" src="{{ asset('public/images/timer.png') }}" alt="Logo">
+                <img class="logo object-fit-contain" src="{{ asset('images/timer.png') }}" alt="Logo">
                 Presto
             </a>
 
